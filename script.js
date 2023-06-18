@@ -198,7 +198,7 @@ new Vue({
   
             cover: "https://drive.google.com/uc?export=download&id=1ydsb8EK1YM9gC9piKEJwvqSdWJS3gQi6",
   
-            source: "https://drive.google.com/uc?export=download&id=1QBdwna-CkI1a7zBGH1dTZuSunxSWn2JL",
+            source: "https://drive.google.com/uc?export=download&id=1-en5iXx-Zvvv1AvBAn7GOTZVKcIumkXd",
   
             
   
@@ -215,7 +215,7 @@ new Vue({
   
             cover: "https://drive.google.com/uc?export=download&id=16RzxtGZo_1sFrEuEFTU1Zjo7HZ9qdo_u",
   
-            source: "https://drive.google.com/uc?export=download&id=1MBWEf2e7qQjhtNMdK06bdZDzSs-2Zryu",
+            source: "https://drive.google.com/uc?export=download&id=1OR1mUnmQvMJuDKNFA8Cpp9Jlo073e0gR",
   
             
   
