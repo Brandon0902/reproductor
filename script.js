@@ -256,7 +256,133 @@ new Vue({
             favorited: false
   
             
-            }
+          },
+
+          {
+            name: "Intensidad(Lo que a veces siento que te molesta💝🥺)",
+
+            artist: "Rusherking",
+
+            cover: "https://drive.google.com/uc?export=download&id=19annrBej2Xi76YFJeMwVFthFpKhEqo5N",
+            
+            source: "https://drive.google.com/uc?export=download&id=1SPJzTq-vvsKc9CO3HW0kdsYonVYKJIBf",
+            
+            url: "https://youtu.be/5rPmgS_yxMc?si=-Ji_ZzMq3cOoCLVA",
+
+            favorited: false
+          },
+
+          {
+            name: "Hide(Las chicas como tu son dificiles de encontrar💝✨)",
+
+            artist: "Juicy Wrld",
+
+            cover: "https://drive.google.com/uc?export=download&id=1kB7RW6gkC64n_-TSHCfAJaOlFZkfgsAH",
+            
+            source: "https://drive.google.com/uc?export=download&id=1kqFkym5fNSlkA8RUDlNwHcK2HNNJxOaB",
+            
+            url: "https://youtu.be/j_gMOuI3hbk?si=Bf6FsOUuEAcXIKFK",
+
+            favorited: false
+          },
+
+          {
+            name: "Mi vida eres tu(La canción lo dice todo💝✨)",
+
+            artist: "Sonyk el Dragón",
+
+            cover: "https://drive.google.com/uc?export=download&id=1V0MeRGJRhQEejOGhkLCXU92JfDNpSyDm",
+            
+            source: "https://drive.google.com/uc?export=download&id=16SIPuav4Uuj2CzWmX1K18JA4_91196uJ",
+            
+            url: "https://youtu.be/DRdeAbYihDk?si=wXj5YdKmeV6nYGVe",
+
+            favorited: false
+          },
+
+          {
+            name: "CON UN BESO(Moria por besarla pero me contuve. jeje bromita🥰✨)",
+
+            artist: "Khea",
+
+            cover: "https://drive.google.com/uc?export=download&id=1LaPbBpkmiXlKLWYemZi3W_Xc3IxQTRiI",
+            
+            source: "https://drive.google.com/uc?export=download&id=1hgaBKrOcqYXnsuXM57TFqk2BybaK7Fng",
+            
+            url: "https://youtu.be/ndZHgehmxbc?si=mEez8-qzQxzsyMvm",
+
+            favorited: false
+          },
+
+          {
+            name: "Efecto(Se que estoy en lo correcto, por que estoy enloqueciendo💝🥰✨)",
+
+            artist: "Khea",
+
+            cover: "https://drive.google.com/uc?export=download&id=1BMuDgKJTqeujcBPBmH6zybc6tXOb-R_e",
+            
+            source: "https://drive.google.com/uc?export=download&id=1eKrL-Ng-HdKTWqPetjKhnlvlSsGLaigr",
+            
+            url: "https://youtu.be/04RXMrKgr8M?si=HHmL2I_fva3YnbsB",
+
+            favorited: false
+          },
+
+          {
+            name: "COMO YO TE QUIERO(NO importa lo que diga la gente. si no saben lo que se siente💝✨)",
+
+            artist: "Khea",
+
+            cover: "https://drive.google.com/uc?export=download&id=1a9bPlIYolpwtK8Bvyac0CegFi-f8xO6n",
+            
+            source: "https://drive.google.com/uc?export=download&id=1zxzbKdWKNZyGK0LVEJAQ6PSX3pUgt2Sr",
+            
+            url: "https://youtu.be/W8AkYNlQjaA?si=cvhAUBCFcX64qGXL",
+
+            favorited: false
+          },
+
+          {
+            name: "Calling(Solo para salvarte daria todo de mi💝✨)",
+
+            artist: "Metro Boomin",
+
+            cover: "https://drive.google.com/uc?export=download&id=1mMFR6FI_Z0Ib18NvHlBxtQPrKUVxcYes",
+            
+            source: "https://drive.google.com/uc?export=download&id=10YOU26SJ5heph2ejrkjlRLBiBZcT6nEO",
+            
+            url: "https://youtu.be/LBkenYxCBOs?si=QILMffhLPURKdXNl",
+
+            favorited: false
+          },
+
+          {
+            name: "No te vayas(Cuanto te amo. espero no estes dudando❤️‍🩹💝✨)",
+
+            artist: "Seven Kayne",
+
+            cover: "https://drive.google.com/uc?export=download&id=1tZrc54ieAvAQRE-u-Kdi2xvE7lUDyui_",
+            
+            source: "https://drive.google.com/uc?export=download&id=15gPRx1DOLeQ8cD6xgrKp80fIL2VQ7cKW",
+            
+            url: "https://youtu.be/mFFf4i9QhLE?si=gw-oFCSNWL0__x3s",
+
+            favorited: false
+          },
+
+          {
+            name: "Falling(Ven acercate. te entregare todo mi amor❤️‍🩹💝✨)",
+
+            artist: "Trevor Daniel",
+
+            cover: "https://drive.google.com/uc?export=download&id=1AUZAFvIiqlX2FMmqgSDzb9nZbGmwc7dQ",
+            
+            source: "https://drive.google.com/uc?export=download&id=1xnTbFnXq8-EuYeM5fwTvf0AxjdNYL8uw",
+            
+            url: "https://youtu.be/YiblqCnBGK4?si=-R1f7SUb6f7h_Ua_",
+
+            favorited: false
+          },
           ],
           
   
