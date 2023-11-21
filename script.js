@@ -391,7 +391,7 @@ new Vue({
             
             source: "https://drive.google.com/uc?export=download&id=1Xi_-P9fLiIYkQ1YrlhiD1aYxrRxUqU1Q",
             
-            url: "https://youtu.be/YiblqCnBGK4?si=-R1f7SUb6f7h_Ua_",
+            url: "https://www.youtube.com/watch?v=yv_VOxdd8ac",
 
             favorited: false
           },
@@ -404,7 +404,7 @@ new Vue({
             
             source: "https://drive.google.com/uc?export=download&id=1lpwGGvZq-T3vtd5jP4Eq0WMQXxPXlI-V",
             
-            url: "https://youtu.be/mFFf4i9QhLE?si=gw-oFCSNWL0__x3s",
+            url: "https://www.youtube.com/watch?v=-n_gb-KV1j0",
 
             favorited: false
           },
@@ -417,7 +417,7 @@ new Vue({
             
             source: "https://drive.google.com/uc?export=download&id=1vK-RweCyct6_SiyoaFPbbI4IhOjfd28v",
             
-            url: "https://youtu.be/YiblqCnBGK4?si=-R1f7SUb6f7h_Ua_",
+            url: "https://www.youtube.com/watch?v=T-HYMe2MEXc",
 
             favorited: false
           },
