@@ -369,7 +369,6 @@ new Vue({
 
             favorited: false
           },
-
           {
             name: "Falling(Ven acercate. te entregare todo mi amor❤️‍🩹💝✨)",
 
@@ -378,6 +377,45 @@ new Vue({
             cover: "https://drive.google.com/uc?export=download&id=1AUZAFvIiqlX2FMmqgSDzb9nZbGmwc7dQ",
             
             source: "https://drive.google.com/uc?export=download&id=1xnTbFnXq8-EuYeM5fwTvf0AxjdNYL8uw",
+            
+            url: "https://youtu.be/YiblqCnBGK4?si=-R1f7SUb6f7h_Ua_",
+
+            favorited: false
+          },
+          {
+            name: "Por ti(Mi memoria es una mieda pero siempre me acuerdo de ti❤️‍🩹💝✨)",
+
+            artist: "3AM",
+
+            cover: "https://drive.google.com/uc?export=download&id=1gRkuTqEbZTzpZ2FUo1WHLJKCHX0nj0FY",
+            
+            source: "https://drive.google.com/uc?export=download&id=1Xi_-P9fLiIYkQ1YrlhiD1aYxrRxUqU1Q",
+            
+            url: "https://youtu.be/YiblqCnBGK4?si=-R1f7SUb6f7h_Ua_",
+
+            favorited: false
+          },
+          {
+            name: "Love it(Todo lo que no hice por nadie, te aseguro que lo hago por ti❤️‍🩹💝✨)",
+
+            artist: "Rels B",
+
+            cover: "https://drive.google.com/uc?export=download&id=1iQmCcytmQmjVBu_8q4jPjyr-pF_SXJAk",
+            
+            source: "https://drive.google.com/uc?export=download&id=1lpwGGvZq-T3vtd5jP4Eq0WMQXxPXlI-V",
+            
+            url: "https://youtu.be/mFFf4i9QhLE?si=gw-oFCSNWL0__x3s",
+
+            favorited: false
+          },
+          {
+            name: "Bombom(Algo como lo nuestro es de pocas veces❤️‍🩹💝✨)",
+
+            artist: "3AM",
+
+            cover: "https://drive.google.com/uc?export=download&id=1fDjR9TrIapmHCCxVleqzdGGlCckfs306",
+            
+            source: "https://drive.google.com/uc?export=download&id=1vK-RweCyct6_SiyoaFPbbI4IhOjfd28v",
             
             url: "https://youtu.be/YiblqCnBGK4?si=-R1f7SUb6f7h_Ua_",
 
